@@ -1,0 +1,21 @@
+2025-04-15 01:30:42.759 | INFO     | test_contacts_page_change_region:test_region_change:51 - Подготовка к тесту: смена региона с Ярославская обл. на Камчатский край
+2025-04-15 01:30:42.759 | INFO     | test_contacts_page_change_region:test_region_change:57 - Страницы инициализированы
+2025-04-15 01:30:45.111 | INFO     | test_contacts_page_change_region:test_region_change:61 - Главная страница открыта
+2025-04-15 01:30:45.407 | INFO     | test_contacts_page_change_region:test_region_change:65 - Popup контактов успешно открыт
+2025-04-15 01:30:47.432 | INFO     | test_contacts_page_change_region:test_region_change:69 - Переход на страницу контактов выполнен
+2025-04-15 01:30:47.714 | INFO     | test_contacts_page_change_region:test_region_change:75 - Открытие попапа выберете свой регион выполнен
+2025-04-15 01:30:48.550 | INFO     | test_contacts_page_change_region:test_region_change:79 - Переключение региона выполнен
+2025-04-15 01:30:48.550 | INFO     | test_contacts_page_change_region:test_region_change:83 - Начало теста: смена региона с Ярославская обл. на Камчатский край
+2025-04-15 01:30:48.587 | INFO     | test_contacts_page_change_region:test_region_change:87 - Определение региона выполнено
+2025-04-15 01:30:48.603 | INFO     | test_contacts_page_change_region:test_region_change:91 - Проверка региона выполнена
+2025-04-15 01:30:48.617 | INFO     | test_contacts_page_change_region:test_region_change:95 - Проверка списка партнеров выполнена
+2025-04-15 01:30:48.675 | INFO     | test_contacts_page_change_region:test_region_change:99 - Проверка первого партнера выполнена
+2025-04-15 01:30:48.712 | INFO     | test_contacts_page_change_region:test_region_change:103 - Открытие попапа выберете свой регион выполнен
+2025-04-15 01:30:49.563 | INFO     | test_contacts_page_change_region:test_region_change:107 - Смена региона с Ярославская обл. на Камчатский край выполнена
+2025-04-15 01:30:49.584 | INFO     | test_contacts_page_change_region:test_region_change:111 - Проверка списка партнеров для региона Камчатский край выполнена
+2025-04-15 01:30:50.098 | INFO     | test_contacts_page_change_region:test_region_change:115 - Проверка url региона Камчатский край выполнена
+2025-04-15 01:30:50.103 | INFO     | test_contacts_page_change_region:test_region_change:119 - Проверка title региона Камчатский край выполнена
+2025-04-15 01:30:50.127 | INFO     | test_contacts_page_change_region:test_region_change:124 - Проверка региона Камчатский край выполнена
+2025-04-15 01:30:50.139 | INFO     | test_contacts_page_change_region:test_region_change:128 - Проверка списка партнеров для региона Камчатский край выполнена
+2025-04-15 01:30:50.156 | INFO     | test_contacts_page_change_region:test_region_change:132 - Проверка первого партнера для Камчатский край выполнена
+2025-04-15 01:30:50.156 | INFO     | test_contacts_page_change_region:test_region_change:134 - Завершение теста: смена региона с Ярославская обл. на Камчатский край

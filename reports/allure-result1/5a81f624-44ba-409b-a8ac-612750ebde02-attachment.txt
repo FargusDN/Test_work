@@ -1,0 +1,16 @@
+2025-04-15 01:30:35.166 | INFO     | test_about_page_image_size:test_about_page_image_size:15 - Начало теста: Проверка размеров изображения в блоке 'Работаем' на странице https://tensor.ru/about
+2025-04-15 01:30:35.167 | INFO     | test_about_page_image_size:test_about_page_image_size:23 - Страницы инициализированы
+2025-04-15 01:30:36.488 | INFO     | test_about_page_image_size:test_about_page_image_size:27 - Открыта главная страница Saby
+2025-04-15 01:30:36.840 | INFO     | test_about_page_image_size:test_about_page_image_size:31 - Popup контактов успешно открыт
+2025-04-15 01:30:37.904 | INFO     | test_about_page_image_size:test_about_page_image_size:35 - Переход на страницу контактов выполнен
+2025-04-15 01:30:38.198 | INFO     | test_about_page_image_size:test_about_page_image_size:39 - Переход на сайт Tensor выполнен
+2025-04-15 01:30:38.206 | INFO     | test_about_page_image_size:test_about_page_image_size:43 - Переключение на новую вкладку выполнено
+2025-04-15 01:30:39.342 | INFO     | test_about_page_image_size:test_about_page_image_size:47 - URL Tensor корректный
+2025-04-15 01:30:39.367 | INFO     | test_about_page_image_size:test_about_page_image_size:51 - Блок 'Сила в людях' проверен успешно
+2025-04-15 01:30:41.029 | INFO     | test_about_page_image_size:test_about_page_image_size:55 - Переход на страницу 'О компании' выполнен
+2025-04-15 01:30:41.032 | INFO     | test_about_page_image_size:test_about_page_image_size:59 - Переключение на новую вкладку выполнено
+2025-04-15 01:30:41.034 | INFO     | test_about_page_image_size:test_about_page_image_size:63 - URL страницы 'О компании' корректный
+2025-04-15 01:30:41.051 | INFO     | test_about_page_image_size:test_about_page_image_size:67 - Блок 'Работаем' проверен успешно
+2025-04-15 01:30:41.059 | INFO     | test_about_page_image_size:test_about_page_image_size:71 - Изображения успешно получены
+2025-04-15 01:30:41.086 | INFO     | test_about_page_image_size:test_about_page_image_size:75 - Размеры изображений соответствуют требованиям
+2025-04-15 01:30:41.086 | INFO     | test_about_page_image_size:test_about_page_image_size:77 - Завершение теста: Проверка размеров изображения в блоке 'Работаем' на странице https://tensor.ru/about

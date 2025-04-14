@@ -1,0 +1,14 @@
+# Python
+venv/
+.idea
+.pytest_cache
+__pycache__
+# System
+.DS_Store
+
+# Logs and temp files
+logs/*.log
+download/*.tmp
+download/*.exe
+reports/*.txt
+reports/*.json

@@ -1,0 +1,21 @@
+2025-04-15 01:30:51.809 | INFO     | test_contacts_page_change_region:test_region_change:51 - Подготовка к тесту: смена региона с Ярославская обл. на г. Санкт-Петербург
+2025-04-15 01:30:51.810 | INFO     | test_contacts_page_change_region:test_region_change:57 - Страницы инициализированы
+2025-04-15 01:30:54.478 | INFO     | test_contacts_page_change_region:test_region_change:61 - Главная страница открыта
+2025-04-15 01:30:54.776 | INFO     | test_contacts_page_change_region:test_region_change:65 - Popup контактов успешно открыт
+2025-04-15 01:30:55.839 | INFO     | test_contacts_page_change_region:test_region_change:69 - Переход на страницу контактов выполнен
+2025-04-15 01:30:56.064 | INFO     | test_contacts_page_change_region:test_region_change:75 - Открытие попапа выберете свой регион выполнен
+2025-04-15 01:30:56.894 | INFO     | test_contacts_page_change_region:test_region_change:79 - Переключение региона выполнен
+2025-04-15 01:30:56.894 | INFO     | test_contacts_page_change_region:test_region_change:83 - Начало теста: смена региона с Ярославская обл. на г. Санкт-Петербург
+2025-04-15 01:30:56.918 | INFO     | test_contacts_page_change_region:test_region_change:87 - Определение региона выполнено
+2025-04-15 01:30:56.952 | INFO     | test_contacts_page_change_region:test_region_change:91 - Проверка региона выполнена
+2025-04-15 01:30:57.003 | INFO     | test_contacts_page_change_region:test_region_change:95 - Проверка списка партнеров выполнена
+2025-04-15 01:30:57.019 | INFO     | test_contacts_page_change_region:test_region_change:99 - Проверка первого партнера выполнена
+2025-04-15 01:30:57.075 | INFO     | test_contacts_page_change_region:test_region_change:103 - Открытие попапа выберете свой регион выполнен
+2025-04-15 01:30:57.887 | INFO     | test_contacts_page_change_region:test_region_change:107 - Смена региона с Ярославская обл. на г. Санкт-Петербург выполнена
+2025-04-15 01:30:57.909 | INFO     | test_contacts_page_change_region:test_region_change:111 - Проверка списка партнеров для региона г. Санкт-Петербург выполнена
+2025-04-15 01:30:58.424 | INFO     | test_contacts_page_change_region:test_region_change:115 - Проверка url региона г. Санкт-Петербург выполнена
+2025-04-15 01:30:58.429 | INFO     | test_contacts_page_change_region:test_region_change:119 - Проверка title региона г. Санкт-Петербург выполнена
+2025-04-15 01:30:58.454 | INFO     | test_contacts_page_change_region:test_region_change:124 - Проверка региона г. Санкт-Петербург выполнена
+2025-04-15 01:30:58.466 | INFO     | test_contacts_page_change_region:test_region_change:128 - Проверка списка партнеров для региона г. Санкт-Петербург выполнена
+2025-04-15 01:30:58.483 | INFO     | test_contacts_page_change_region:test_region_change:132 - Проверка первого партнера для г. Санкт-Петербург выполнена
+2025-04-15 01:30:58.483 | INFO     | test_contacts_page_change_region:test_region_change:134 - Завершение теста: смена региона с Ярославская обл. на г. Санкт-Петербург

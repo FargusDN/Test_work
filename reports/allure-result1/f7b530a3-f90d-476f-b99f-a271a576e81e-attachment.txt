@@ -1,0 +1,10 @@
+2025-04-15 01:31:00.279 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:11 - Начало теста: Проверка размера файла 'Сбис Плагин' для windows версия = 'Веб-установщик'
+2025-04-15 01:31:00.280 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:16 - Страницы инициализированы
+2025-04-15 01:31:03.018 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:20 - Главная страница открыта
+2025-04-15 01:31:03.573 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:24 - Переход на страницу 'Скачать локальные версии выполнен
+2025-04-15 01:31:03.678 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:28 - Открытие вкладки 'Saby Plagin' выполнена
+2025-04-15 01:31:04.027 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:32 - Открытие вкладки 'Saby Plagin' версия для windows выполнена
+2025-04-15 01:31:04.050 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:37 - Сбор текста выполнен
+2025-04-15 01:31:04.552 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:41 - Нажатие на кнопку скачать Веб-установщик выполнен
+2025-04-15 01:31:04.579 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:45 - Проверка размеров  скаченного Веб-установщика выполнена
+2025-04-15 01:31:04.579 | INFO     | test_download_Plugin_windows_and_verify_size:test_download_Plagin_windows_verify_size:47 - Завершение теста: Проверка размера файла 'Сбис Плагин' для windows версия = 'Веб-установщик'
