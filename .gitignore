@@ -1,8 +1,5 @@
 # Python
 venv/
-.idea
-.pytest_cache
-__pycache__
 # System
 .DS_Store
 
