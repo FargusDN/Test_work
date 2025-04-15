@@ -1,5 +1,6 @@
 # Python
 venv/
+.idea
 # System
 .DS_Store
 
@@ -7,5 +8,6 @@ venv/
 logs/*.log
 download/*.tmp
 download/*.exe
+downloads/*.crdownload
 reports/*.txt
 reports/*.json
