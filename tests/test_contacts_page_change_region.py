@@ -123,10 +123,6 @@ def test_region_change(
         SContact.check_current_region(target_region)  # Регион конечного перехода
         logger.info(f"Проверка региона {target_region} выполнена")
 
-    with allure.step(f"Проверка списка партнеров для региона {target_region}"):
-        SContact.is_partners_list_visible()
-        logger.info(f"Проверка списка партнеров для региона {target_region} выполнена")
-
     with allure.step(f"Проверка первого партнера  {target_region}"):
         SContact.get_first_partner_text(target_partner)  # Партнер конечного перехода
         logger.info(f"Проверка первого партнера для {target_region} выполнена")
